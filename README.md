@@ -214,6 +214,7 @@ curl http://127.0.0.1:8000/api/health
 
 - 允许商业使用、修改与分发；
 - 通过网络向用户提供服务时，须按 AGPL 提供对应源代码；
+- 对应源代码：[GitHub](https://github.com/zhaocibaidi233/JianjiLIB-source) / [Gitee](https://gitee.com/sss12333/JianjiLIB-source)；
 - 第三方组件许可见 [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)；
 - 内置数据不在本许可范围内，见 [DATA_NOTICE.md](DATA_NOTICE.md)；
 - 版权归著作权人所有，具体条款以 `LICENSE` 为准。
