@@ -1,0 +1,10 @@
+This package includes the Microsoft Visual C++ Runtime DLLs
+(VCRUNTIME140.dll, VCRUNTIME140_1.dll, MSVCP140.dll) required by the
+bundled PostgreSQL binaries.
+
+The Microsoft Visual C++ Redistributable is redistributed under the
+Microsoft Software License Terms for the Visual C++ Redistributable.
+Source: https://learn.microsoft.com/cpp/windows/latest-supported-vc-redist
+
+The files are copied from the build machine's system directory and are
+included only to make the portable PostgreSQL runtime self-contained.

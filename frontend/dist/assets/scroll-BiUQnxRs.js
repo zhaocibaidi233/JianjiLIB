@@ -1,0 +1,1 @@
+function e(){const t=getComputedStyle(document.documentElement).getPropertyValue("--topbar-h"),o=parseFloat(t);return(Number.isFinite(o)?o:62)+10}function n(t){if(!t)return;const o=t.getBoundingClientRect().top+window.scrollY-e();window.scrollTo({top:Math.max(0,o),behavior:"smooth"})}export{n as s};
